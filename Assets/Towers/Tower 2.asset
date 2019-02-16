@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9be87122566d6b4ea134465495a95d1, type: 3}
+  m_Name: Tower 2
+  m_EditorClassIdentifier: 
+  cost: 45
+  material: {fileID: 2100000, guid: a6b428c153f8e58499dfa0a8f36a648f, type: 2}
+  damage: 55
+  shootTime: 1.1
+  range: 11
+  aoe: 1
